@@ -20,7 +20,7 @@
             <description>Plugin nabízí přístup do archivu České televize iVysílání i přehrávání kanálů živě.</description>
         </extension>
     </addon>
-    <addon id="plugin.video.joj" name="joj.sk" provider-name="Maros Ondrasek" version="1.0.0">
+    <addon id="plugin.video.joj.sk" name="joj.sk" provider-name="Maros Ondrasek" version="1.0.0">
 		<requires>
 			<import addon="xbmc.python" version="2.0" />
 			<import addon="script.module.stream.resolver" version="1.0.0" />
@@ -30,7 +30,7 @@
             <description>Sledujte online TV archív zo serveru joj.sk</description>
         </extension>
     </addon>
-    <addon id="plugin.video.markiza" name="markiza.sk" provider-name="Maros Ondrasek" version="1.0.0">
+    <addon id="plugin.video.markiza.sk" name="markiza.sk" provider-name="Maros Ondrasek" version="1.0.0">
 		<requires>
 			<import addon="xbmc.python" version="2.0" />
 			<import addon="script.module.stream.resolver" version="1.0.0" />
