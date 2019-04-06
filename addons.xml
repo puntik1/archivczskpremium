@@ -160,4 +160,16 @@
 			<description>Common python modules pack that is used by xbmc-doplnky plugins</description>
 		</extension>
 	</addon>
+	<addon id="script.module.common" name="Common python modules" provider-name="Yoda" version="1.0.0">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+		</requires>
+		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.addon.metadata">
+			<summary>Common python modules</summary>
+			<description></description>
+			<license>GNU GPL</license>
+			<platform>all</platform>
+		</extension>
+	</addon>
 </addons>
