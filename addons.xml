@@ -117,7 +117,7 @@
 			<summary>sosac.ph</summary>
 		</extension>
 	</addon>
-	<addon id="plugin.video.stream-cinema" name="Stream Cinema" provider-name="" version="1.0.0">
+	<addon id="plugin.video.stream-cinema" name="Stream Cinema" provider-name="" version="1.0.1">
 		<requires>
 			<import addon="xbmc.python" version="2.0" />
 			<import addon="script.module.stream.resolver" version="1.0.0" />
