@@ -18,7 +18,7 @@
 			<summary>dvtv.cz</summary>
 		</extension>
 	</addon>
-	<addon id="plugin.video.ivysilani" name="iVysilani - Ceska televize" provider-name="" version="1.0.0">
+	<addon id="plugin.video.ivysilani" name="iVysilani - Ceska televize" provider-name="" version="1.0.1">
 		<requires>
 			<import addon="xbmc.python" version="2.0" />
 			<import addon="script.module.stream.resolver" version="1.0.0" />
@@ -63,7 +63,7 @@
 			<summary>Nova Plus TV - archiv</summary>
 		</extension>
 	</addon>
-	<addon id="plugin.video.o2tv" name="O2TV" provider-name="" version="1.0.0">
+	<addon id="plugin.video.o2tv" name="O2TV" provider-name="" version="1.0.1">
 		<requires>
 			<import addon="xbmc.python" version="2.0" />
 			<import addon="script.module.stream.resolver" version="1.0.0" />
