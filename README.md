@@ -2,7 +2,7 @@
 Prvotná instalácia je zdarma. Pokiaľ sa bude robiť vývoj resp. oprava už existujúcich doplnkov, prípadne pridávanie nových, tak aktualizácia bude klientovi dostupná po uhradení symbolického poplatku. Klient sa rozumie set-top box. V prípade multiboot stačí archív aktualizovať na jednom a do zvyšných image už len manuálne skopírovať/prepísať.
 
 # Aktualizácie
-Aktualizácia je viazaná na konkrétny čas a je poskytovaná ako celkový balíček (nie jednotlivo). To znamená, že pokiaľ používate prvotnú verziu ktorá je zdarma a v priebehu času sa povedzme vylepšili resp. opravili 4 doplnky tak po uhradení poplatku a spracovaní platby dostanete poslednú aktualizáciu. To isté platí, pokiaľ klient uz pred tým aktualizoval kde boli opravené 2 doplnky a teraz chce aktualizovať znova, tak dostane už len zvyšné 2 doplnky, ktoré sa opravili.
+Aktualizácia je viazaná na konkrétny čas (čas vytvorenia požiadavky) a je poskytovaná ako celkový balíček (nie jednotlivo). To znamená, že pokiaľ používate prvotnú verziu ktorá je zdarma a v priebehu času sa povedzme vylepšili resp. opravili 4 doplnky tak po uhradení poplatku a spracovaní platby dostanete poslednú aktualizáciu. To isté platí, pokiaľ klient uz pred tým aktualizoval kde boli opravené 2 doplnky a teraz chce aktualizovať znova, tak dostane už len zvyšné 2 doplnky, ktoré sa opravili.
 
 Po požiadaní o aktulizáciu máte 14 dní na uhradenie poplatku. Pokiaľ tak neurobíte, tak sa Vaša požiadavka zneplatní v systéme a taktiež v set-top boxe. To znamená že pri spustení archívu sa Vám znova zobrazí možnosť požiadať o aktualizáciu. Po úhrade sa platba musí manuálne spracovať, čo môže trvať aj niekoľko dní (standardne 1 deň) a až po jej spracovaní sa Vám archív aktualizuje.
 
