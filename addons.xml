@@ -36,6 +36,15 @@
 			<summary>joj.sk</summary>
 		</extension>
 	</addon>
+	<addon id="plugin.video.malltv" name="MallTV" provider-name="" version="1.0.0">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary>MallTV</summary>
+		</extension>
+	</addon>
 	<addon id="plugin.video.markiza.sk" name="markiza.sk" provider-name="" version="1.0.0">
 		<requires>
 			<import addon="xbmc.python" version="2.0" />
@@ -90,7 +99,7 @@
 			<summary>OrangeTV</summary>
 		</extension>
 	</addon>
-	<addon id="plugin.video.primaplay" name="iPrima" provider-name="" version="1.0.0">
+	<addon id="plugin.video.primaplay" name="iPrima" provider-name="" version="1.0.1">
 		<requires>
 			<import addon="xbmc.python" version="2.0" />
 			<import addon="script.module.stream.resolver" version="1.0.0" />
