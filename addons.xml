@@ -36,7 +36,7 @@
 			<summary>joj.sk</summary>
 		</extension>
 	</addon>
-	<addon id="plugin.video.malltv" name="MallTV" provider-name="" version="1.0.1">
+	<addon id="plugin.video.malltv" name="MallTV" provider-name="" version="1.0.2">
 		<requires>
 			<import addon="xbmc.python" version="2.0" />
 			<import addon="script.module.stream.resolver" version="1.0.0" />
