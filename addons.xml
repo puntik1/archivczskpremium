@@ -135,13 +135,26 @@
 			<summary>stream-cinema.online</summary>
 		</extension>
 	</addon>
-	<addon id="plugin.video.streamtv" name="Stream TV Archiv" provider-name="" version="1.0.0">
+	<addon id="plugin.video.streamtv" name="TelevizeSeznam" provider-name="" version="2.0.0">
 		<requires>
 			<import addon="xbmc.python" version="2.0" />
 			<import addon="script.module.stream.resolver" version="1.0.0" />
 		</requires>
 		<extension point="xbmc.addon.metadata">
-			<summary>stream.cz</summary>
+			<summary lang="en">TelevizeSeznam</summary>
+			<summary lang="cs">TelevizeSeznam</summary>
+			<summary lang="sk">TelevizeSeznam</summary>
+		</extension>
+	</addon>
+	<addon id="plugin.video.sledovanitv" name="SledovanieTV" provider-name="" version="1.0.0">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">SledovanieTV</summary>
+			<summary lang="cs">SledovaniTV</summary>
+			<summary lang="sk">SledovanieTV</summary>
 		</extension>
 	</addon>
 	<addon id="plugin.video.ta3.com" name="TA3" provider-name="" version="1.0.0">
