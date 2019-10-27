@@ -36,7 +36,7 @@
 			<summary>joj.sk</summary>
 		</extension>
 	</addon>
-	<addon id="plugin.video.malltv" name="MallTV" provider-name="" version="1.0.2">
+	<addon id="plugin.video.malltv" name="MallTV" provider-name="" version="1.0.3">
 		<requires>
 			<import addon="xbmc.python" version="2.0" />
 			<import addon="script.module.stream.resolver" version="1.0.0" />
@@ -63,7 +63,7 @@
 			<summary>mtr.sk</summary>
 		</extension>
 	</addon>
-	<addon id="plugin.video.novaplus" name="Nova Plus TV Archiv" provider-name="" version="1.0.0">
+	<addon id="plugin.video.novaplus" name="Nova Plus TV Archiv" provider-name="" version="1.0.1">
 		<requires>
 			<import addon="xbmc.python" version="2.0" />
 			<import addon="script.module.stream.resolver" version="1.0.0" />
@@ -126,7 +126,7 @@
 			<summary>sosac.ph</summary>
 		</extension>
 	</addon>
-	<addon id="plugin.video.stream-cinema" name="Stream Cinema" provider-name="" version="1.0.3">
+	<addon id="plugin.video.stream-cinema" name="Stream Cinema" provider-name="" version="1.0.4">
 		<requires>
 			<import addon="xbmc.python" version="2.0" />
 			<import addon="script.module.stream.resolver" version="1.0.0" />
@@ -135,7 +135,7 @@
 			<summary>stream-cinema.online</summary>
 		</extension>
 	</addon>
-	<addon id="plugin.video.streamtv" name="TelevizeSeznam" provider-name="" version="2.0.0">
+	<addon id="plugin.video.streamtv" name="TelevizeSeznam" provider-name="" version="2.0.1">
 		<requires>
 			<import addon="xbmc.python" version="2.0" />
 			<import addon="script.module.stream.resolver" version="1.0.0" />
@@ -146,7 +146,7 @@
 			<summary lang="sk">TelevizeSeznam</summary>
 		</extension>
 	</addon>
-	<addon id="plugin.video.sledovanitv" name="SledovanieTV" provider-name="" version="1.0.0">
+	<addon id="plugin.video.sledovanitv" name="SledovanieTV" provider-name="" version="1.0.1">
 		<requires>
 			<import addon="xbmc.python" version="2.0" />
 			<import addon="script.module.stream.resolver" version="1.0.0" />
