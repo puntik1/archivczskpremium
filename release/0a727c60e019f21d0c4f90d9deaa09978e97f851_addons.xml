@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+	<addon id="plugin.video.digigo" name="DigiGO" provider-name="" version="1.0.1">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+        <extension point="xbmc.addon.metadata">
+            <summary>DigiGO</summary>
+        </extension>
+    </addon>
+	<addon id="plugin.video.dvtv.cz" name="Drtinova Veselovsky TV" provider-name="" version="1.0.1">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary>dvtv.cz</summary>
+		</extension>
+	</addon>
+	<addon id="plugin.video.ivysilani" name="iVysilani - Ceska televize" provider-name="" version="1.0.1">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary>iVysílání — Česká televize</summary>
+		</extension>
+	</addon>
+	<addon id="plugin.video.joj.sk" name="joj.sk" provider-name="" version="1.0.1">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary>joj.sk</summary>
+		</extension>
+	</addon>
+	<addon id="plugin.video.malltv" name="MallTV" provider-name="" version="1.0.4">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary>MallTV</summary>
+		</extension>
+	</addon>
+	<addon id="plugin.video.markiza.sk" name="markiza.sk" provider-name="" version="1.0.1">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary>markiza.sk</summary>
+		</extension>
+	</addon>
+	<addon id="plugin.video.mtr.sk" name="Mestska TV Ruzomberok" provider-name="" version="1.0.0">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary>mtr.sk</summary>
+		</extension>
+	</addon>
+	<addon id="plugin.video.novaplus" name="Nova Plus TV Archiv" provider-name="" version="1.0.1">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary>Nova Plus TV - archiv</summary>
+		</extension>
+	</addon>
+	<addon id="plugin.video.o2tv" name="O2TV" provider-name="" version="1.1.0">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary>O2TV</summary>
+		</extension>
+	</addon>
+	<addon id="plugin.video.online-files" name="Soubory Online" provider-name="" version="1.0.0">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary>Soubory Online</summary>
+		</extension>
+	</addon>
+	<addon id="plugin.video.orangetv" name="OrangeTV" provider-name="" version="1.0.0">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary>OrangeTV</summary>
+		</extension>
+	</addon>
+	<addon id="plugin.video.primaplay" name="iPrima" provider-name="" version="1.0.1">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary>iPrima</summary>
+		</extension>
+	</addon>
+	<addon id="plugin.video.rtvs.sk" name="rtvs.sk" provider-name="" version="1.0.1">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary>rtvs.sk</summary>
+		</extension>
+	</addon>
+	<addon id="plugin.video.sosac.ph" name="Sosac" provider-name="" version="1.0.0">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary>sosac.ph</summary>
+		</extension>
+	</addon>
+	<addon id="plugin.video.stream-cinema" name="Stream Cinema" provider-name="" version="1.0.5">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary>stream-cinema.online</summary>
+		</extension>
+	</addon>
+	<addon id="plugin.video.streamtv" name="TelevizeSeznam" provider-name="" version="2.0.2">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">TelevizeSeznam</summary>
+			<summary lang="cs">TelevizeSeznam</summary>
+			<summary lang="sk">TelevizeSeznam</summary>
+		</extension>
+	</addon>
+	<addon id="plugin.video.sledovanitv" name="SledovanieTV" provider-name="" version="1.0.2">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">SledovanieTV</summary>
+			<summary lang="cs">SledovaniTV</summary>
+			<summary lang="sk">SledovanieTV</summary>
+		</extension>
+	</addon>
+	<addon id="plugin.video.ta3.com" name="TA3" provider-name="" version="1.0.0">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.stream.resolver" version="1.0.0" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary>ta3.com</summary>
+		</extension>
+	</addon>
+	<addon id="script.module.stream.resolver" name="stream resolver" provider-name="" version="1.0.0">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+			<import addon="script.module.simplejson" version="2.0.10" />
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary>xbmc-doplnky plugins common python modules mainly for resolving stream URLs</summary>
+		</extension>
+	</addon>
+	<addon id="script.module.common" name="Common python modules" provider-name="" version="1.0.0">
+		<requires>
+			<import addon="xbmc.python" version="2.0" />
+		</requires>
+		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.addon.metadata">
+			<summary>Common python modules</summary>
+			<license>GNU GPL</license>
+			<platform>all</platform>
+		</extension>
+	</addon>
+</addons>
