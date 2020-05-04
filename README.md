@@ -4,6 +4,9 @@
 
 Prvotná instalácia je zdarma. Pokiaľ sa bude robiť vývoj resp. oprava už existujúcich doplnkov, prípadne pridávanie nových, tak aktualizácia bude klientovi dostupná po uhradení symbolického poplatku. Klient sa rozumie set-top box. V prípade multiboot stačí archív aktualizovať na jednom a do zvyšných image nainštalovať [verziu 1.0.0](https://github.com/mtester270/archivczskpremium/releases/tag/v1.0.0) a následne manuálne prepísať obsah adresára /usr/lib/enigma2/python/Plugins/Extensions/archivCZSKpremium.
 
+Prosím uvedomte si že plugin ako taký len transformuje verejne dostupné údaje do pohodlnej formy pre užívateľa (je len zobrazovač) a nemá nic spoločné s poskytovateľom údajov. Pokiaľ poskytovateľ zmení údaje môže to spôsobiť nefunkčnosť niektorého z doplnkov čo môžete následne nahlásiť a ak to bude v mojich silách tak to môžem opraviť.
+
+
 # Problém pri spustení
 Pokiaľ pri vstupe do "Doplnkov/Modulov" hlási enigma2 chybu ".../_counter.so: cannot open shared object file..." tak si treba prečítať [TOTO](https://github.com/mtester270/archivczskpremium/releases/tag/v1.0.0).
 
