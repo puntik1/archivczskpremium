@@ -15,9 +15,9 @@ Aktualizácia je viazaná na konkrétny čas (čas vytvorenia požiadavky) a je 
 
 Po požiadaní o aktulizáciu máte 14 dní na uhradenie poplatku. Pokiaľ tak neurobíte, tak sa Vaša požiadavka zneplatní v systéme a taktiež v set-top boxe. To znamená že pri spustení archívu sa Vám znova zobrazí možnosť požiadať o aktualizáciu. Po úhrade sa platba musí spracovať (štandardne do 1 hodiny). O spracovaní budete informovaný na registrovaný email platobnej brány.
 
-Aktuálny zoznam vylepšení nájdete [TU](https://github.com/mtester270/archivczskpremium/releases)
+Aktuálny zoznam vylepšení nájdete [TU](https://github.com/mtester270/archivczskpremium/releases).
 
-Automatická kontrola aktulizácií pri spustení archívu sa dá v nastaveniach vypnúť. Týma pádom klient nebude nikdy notifikovaný o nových aktualizáciach, pokiaľ si toto nastavenie znovu nezapne.
+Automatická kontrola aktulizácií pri spustení archívu sa dá v nastaveniach vypnúť. Tým pádom klient nebude nikdy notifikovaný o nových aktualizáciach, pokiaľ si toto nastavenie znovu nezapne.
 
 # Platba
 Platbu je nutné identifikovať podľa inštrukcií zobrazených na obrazovke po odkliknutí súhlasu s aktualizáciou. Pri chybne zadanom identifikátore je možné, že aktualizácia nebude spracovaná, preto si davajte pozor pri odpisovaní.
