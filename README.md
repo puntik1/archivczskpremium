@@ -25,7 +25,7 @@ Platbu je nutné identifikovať podľa inštrukcií zobrazených na obrazovke po
 # Zálohovanie
 Po úspešnej aktualizácii doporučujem archiv odzálohovať. Už stiahnuté aktualizácie sa zo servra mažú, tak prosím nežiadajte opätovné obnovenie odomňa. Kazdý je zodpovedný za svoj box a to čo s ním robí.
 
-1) Pripojíte sa na FTP boxu napr. cez TotalComander
+1) Pripojíte sa na box pomocou FTP protokolu napr. cez TotalCommander
 2) Skopírujete adresár do PC
 ```
 /usr/lib/enigma2/python/Plugins/Extensions/archivCZSKpremium
@@ -33,6 +33,6 @@ Po úspešnej aktualizácii doporučujem archiv odzálohovať. Už stiahnuté ak
 
 1) Pri obnove najskôr nainštalujete ipk balíček a teda prvotnú [verziu 1.0.0](https://github.com/mtester270/archivczskpremium/releases/tag/v1.0.0)
 2) Následne prepíšete odzálohovaný adresár v boxe z PC
-3) Až teraz vykonajte restart príjmača!!!
+3) Až teraz vykonajte reštart príjmača!!!
 
 [Video Navody](https://www.youtube.com/channel/UCmBS0gFkw11vBeHjjK_AGqA/videos)
