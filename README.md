@@ -2,6 +2,7 @@
 
 [Video Navody](https://www.youtube.com/channel/UCmBS0gFkw11vBeHjjK_AGqA/videos)
 
+**POZOR** plugin pre OpenAtv6.5 je nekompatibilny/nefunkcny (python 3.8)
 
 Prvotná instalácia je zdarma. Pokiaľ sa bude robiť vývoj resp. oprava už existujúcich doplnkov, prípadne pridávanie nových, tak aktualizácia bude klientovi dostupná po uhradení symbolického poplatku. Klient sa rozumie set-top box. V prípade multiboot stačí archív aktualizovať na jednom a do zvyšných image nainštalovať [verziu 1.0.0](https://github.com/mtester270/archivczskpremium/releases/tag/v1.0.0) a následne manuálne prepísať obsah adresára /usr/lib/enigma2/python/Plugins/Extensions/archivCZSKpremium.
 
